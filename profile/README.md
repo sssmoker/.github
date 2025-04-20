@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6d0413ca-8a0f-4458-8cda-cdd77e3783d2)
+
 > <a href="https://smoker-fe.vercel.app/">🔗 Smoker</a> </br>
 >UMC 7th  2024.12.28 ~ 2025.2.20</br>
 >올바른 흡연 문화를 위한 흡연 구역 안내 서비스
